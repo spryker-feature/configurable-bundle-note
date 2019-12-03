@@ -1,0 +1,16 @@
+{
+  "name": "spryker-feature/configurable-bundle-note",
+  "description": "Configurable Bundle Note [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.1"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "202001.x-dev"
+    }
+  }
+}
